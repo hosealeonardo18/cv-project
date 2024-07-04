@@ -2,7 +2,7 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-        <h2>Tentang Saya</h2>
+        <h2>About</h2>
         <p>Kenali Perjalanan Hidup Saya Lebih Dekat</p>
     </div><!-- End Section Title -->
 

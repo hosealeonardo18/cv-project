@@ -1,17 +1,17 @@
 <footer id="footer" class="footer position-relative light-background">
     <div class="container">
-        <h3 class="sitename">Brandon Johnson</h3>
-        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
-        <div class="social-links d-flex justify-content-center">
-            <a href=""><i class="bi bi-twitter-x"></i></a>
-            <a href=""><i class="bi bi-facebook"></i></a>
-            <a href=""><i class="bi bi-instagram"></i></a>
-            <a href=""><i class="bi bi-skype"></i></a>
-            <a href=""><i class="bi bi-linkedin"></i></a>
+        <h3 class="sitename">Hosea Leonardo</h3>
+        <q>Saya selalu berkomitmen untuk menghasilkan karya maksimal dalam setiap tugas yang diberikan. Dengan dedikasi dan kerja keras, saya percaya bahwa hasil terbaik bisa dicapai dan memberikan kontribusi yang signifikan bagi perusahaan.</q>
+        <div class="social-links d-flex justify-content-center mt-3">
+            <a href="https://www.linkedin.com/in/hosealeonardo/" target="_blank"><i class="bi bi-linkedin"></i></a>
+            <a href="https://github.com/hosealeonardo18" target="_blank"><i class="bi bi-github"></i></a>
+            <a href="https://www.instagram.com/hosea_leonardo/" target="_blank"><i class="bi bi-instagram"></i></a>
+            <a href="https://x.com/Hosea_Leonardo" target="_blank"><i class="bi bi-twitter-x"></i></a>
+            <a href="https://www.facebook.com/leonardo.hosea" target="_blank"><i class="bi bi-facebook"></i></a>
         </div>
         <div class="container">
             <div class="copyright">
-                <span>Copyright</span> <strong class="px-1 sitename">Alex Smith</strong> <span>All Rights Reserved</span>
+                <span>Copyright</span> <strong class="px-1 sitename">Hosea Leonardo</strong> <span>All Rights Reserved</span>
             </div>
             <div class="credits">
                 <!-- All the links in the footer should remain intact. -->
