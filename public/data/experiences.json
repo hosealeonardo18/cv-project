@@ -1,0 +1,110 @@
+{
+  "error": false,
+  "status": 200,
+  "data": [
+    {
+      "company": {
+        "name": "PT Prima Indo Medilab"
+      },
+      "status": "Contract",
+      "position": "Fullstack Web Developer",
+      "start_date": "April 2023",
+      "end_date": "Sekarang",
+      "job_description": [
+        {
+          "description": "Melakukan backup database lokal maupun database cloud."
+        },
+        {
+          "description": "Melakukan troubleshooting Software maupun Hardware."
+        },
+        {
+          "description": "Melakukan maintenance jaringan internet jika terdapat kendala."
+        },
+        {
+          "description": "Membuat desain database program."
+        },
+        {
+          "description": "Melakukan development program berbasis website menggunakan Laravel."
+        },
+        {
+          "description": "Membuat dokumentasi program yang telah dibuat."
+        },
+        {
+          "description": "Melakukan sosialisasi program yang telah dibuat."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "PT Astra Honda Motor"
+      },
+      "status": "Contract",
+      "position": "Production Operator",
+      "start_date": "Desember 2020",
+      "end_date": "Agustus 2022",
+      "job_description": [
+        {
+          "description": "Membuat ulir dan titik pengapian pada part Crankshaft menggunakan mesin CNC."
+        },
+        {
+          "description": "Membuat laporan target produksi harian."
+        },
+        {
+          "description": "Melakukan pemeliharaan 5 mesin dan 15 alat ukur serta kebersihan mesin."
+        },
+        {
+          "description": "Melakukan pengecekan kualitas produk menggunakan 2 metode yaitu secara visual dan menggunakan alat ukur Caliper."
+        },
+        {
+          "description": "Melakukan pengecekan kualitas produk saat produksi."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "PT Astra Honda Motor"
+      },
+      "status": "Contract",
+      "position": "Production Operator",
+      "start_date": "Februari 2019",
+      "end_date": "Oktober 2020",
+      "job_description": [
+        {
+          "description": "Sebagai Subjig Line di Painting Plastic Section yang bertugas untuk menata dan mengatur urutan barang lebih dari 2000 hanger yang akan dilakukan pengecatan."
+        },
+        {
+          "description": "Membuat laporan target produksi harian."
+        },
+        {
+          "description": "Melakukan pemeliharaan lingkungan dengan melakukan bersih-bersih setiap minggu."
+        },
+        {
+          "description": "Melakukan pemeliharaan Hanger Jig Part menggunakan mesin Striper."
+        }
+      ]
+    },
+    {
+      "company": {
+        "name": "PT Antico Graha Cipta"
+      },
+      "status": "Full-time",
+      "position": "Proudction Administrator",
+      "start_date": "Oktober 2016",
+      "end_date": "Juli 2018",
+      "job_description": [
+        {
+          "description": "Sebagai administrasi produksi yang bertugas membuat lebih dari puluhan desain buku produk."
+        },
+        {
+          "description": "Bersama manager melakukan pembuatan desain, penentuan jumlah produksi, dan bentuk buku produk untuk meningkatkan penjualan tekstil yang berhubungan langsung dengan kebutuhan customer."
+        },
+        {
+          "description": "Melakukan pengambilan gambar lebih dari seribu produk untuk kebutuhan Marketing."
+        },
+        {
+          "description": "Membuat Mockup presentasi marketing."
+        }
+      ]
+    }
+  ]
+}

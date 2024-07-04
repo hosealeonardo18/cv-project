@@ -10,10 +10,6 @@
 <?= view('home/partials/about_section'); ?>
 <!-- /About Section -->
 
-<!-- Stats Section -->
-<?= view('home/partials/stats_section'); ?>
-<!-- /Stats Section -->
-
 <!-- Skills Section -->
 <?= view('home/partials/skill_section'); ?>
 <!-- /Skills Section -->

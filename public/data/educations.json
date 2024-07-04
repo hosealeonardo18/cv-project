@@ -1,0 +1,96 @@
+{
+  "error": false,
+  "status": 200,
+  "data": [
+    {
+      "school_name": "Universitas Mercubuana",
+      "major": "Teknik Informatika",
+      "start_date": "Maret 2018",
+      "end_date": "Sekarang",
+      "descriptions": [
+        {
+          "desc": "Mempelajari Basis Data."
+        },
+        {
+          "desc": "Mempelajari Management project."
+        },
+        {
+          "desc": "Mempelajari Website Development dasar seperti HTML, CSS, JavaScript, dan PHP."
+        },
+        {
+          "desc": "Mempelajari Oracle database."
+        }
+      ]
+    },
+    {
+      "school_name": "Pijarcamp",
+      "major": "Fullstack Web Developer",
+      "start_date": "Desember 2022",
+      "end_date": "April 2023",
+      "descriptions": [
+        {
+          "desc": "Pijarcamp merupakan Program pelatihan software engineering dengan kurikulim industri secara intensif. disini saya mempelajari :"
+        },
+        {
+          "desc": "Mempelajari Bahasa pemrograman Javascript."
+        },
+        {
+          "desc": "Mempelajari React JS."
+        },
+        {
+          "desc": "Mempelajari ExpressJS."
+        },
+        {
+          "desc": "Mempelajari RDBMS PostgreSQL."
+        },
+        {
+          "desc": "Mempelajari Deployment Website."
+        },
+        {
+          "desc": "Mempelajari Softskill dalam hal Public Speaking, Presentasi, Growth Mindset."
+        },
+        {
+          "desc": "Dari hasil pembelajaran yang didapat, saya berhasil menyelesaikan beberapa project indivual dan tim, diantaranya :"
+        },
+        {
+          "desc": "E-Commerce Blanja Online Shop."
+        },
+        {
+          "desc": "Mama Recipe (Project Tim Website Resep Makanan)."
+        },
+        {
+          "desc": "Kudoslancer (Project Hire Job Freelancer)."
+        },
+        {
+          "desc": "Insan Cita Tech Ticket (Project tim pembelian Tiket Pesawat)."
+        },
+        {
+          "desc": "DiChat (Project Realtime Chat)."
+        }
+      ]
+    },
+    {
+      "school_name": "UnivSMK Prestasi Prima Jakarta",
+      "major": "Teknik Komputer dan Jaringan",
+      "start_date": "Juni 2013",
+      "end_date": "Mei 2016",
+      "descriptions": [
+        {
+          "desc": "Mempelajari merakit komputer."
+        },
+        {
+          "desc": "Mempelajari install software komputer."
+        },
+        {
+          "desc": "Mempelajari membuat server jaringan menggunakan Sistem Operasi Debian."
+        },
+        {
+          "desc": "Mempelajari Flowchart"
+        },
+        {
+          "desc": "Mempelajari HTML."
+        }
+      ]
+    }
+  ]
+}

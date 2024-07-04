@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
             <div class="col-lg-9">
                 <h2>Hosea Leonardo</h2>
-                <p>I'm <span class="typed" data-typed-items="Fullstack Web Developer, Freelancer, Fullstack Web Designer">Fullstack Web Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
+                <p>Saya seorang <span class="typed" data-typed-items="Fullstack Web Developer, Freelancer">Fullstack Web Developer</span><span class="typed-cursor typed-cursor--blink" aria-hidden="true"></span></p>
                 <div class="social-links">
                     <a href="https://x.com/Hosea_Leonardo" target="_blank"><i class="bi bi-twitter-x"></i></a>
                     <a href="https://www.facebook.com/leonardo.hosea" target="_blank"><i class="bi bi-facebook"></i></a>
